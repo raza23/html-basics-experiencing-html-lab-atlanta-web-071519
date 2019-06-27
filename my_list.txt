@@ -1,0 +1,5 @@
+"Blastoise"
+"Pikachu"
+"Raichu"
+"Ekins"
+"Mewtwo"
